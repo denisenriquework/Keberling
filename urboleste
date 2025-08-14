@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Metadatos Open Graph para WhatsApp/Facebook -->
+    <meta property="og:title" content="URBOL ESTE">
+    <meta property="og:description" content="Fotos actuales de Nuevo Arroyito Urbanización">
+    <meta property="og:image" content="https://i.postimg.cc/t4vX7PKP/lgoo3.png">
+    <meta property="og:url" content="https://sites.google.com/view/urboleste/inicio">
+    <meta property="og:type" content="website">
+
+    <!-- Metadatos Twitter (por compatibilidad extra) -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="URBOL ESTE">
+    <meta name="twitter:description" content="Fotos actuales de Urbol Este Urbanización">
+    <meta name="twitter:image" content="https://i.postimg.cc/t4vX7PKP/lgoo3.png">
+
+    <title>Redireccionando...</title>
+
+    <!-- Redirección automática -->
+    <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/urboleste/inicio">
+</head>
+<body>
+    <p>Si no eres redirigido automáticamente, <a href="https://sites.google.com/view/urboleste/inicio">haz clic aquí</a>.</p>
+</body>
+</html>
